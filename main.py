@@ -7,7 +7,7 @@ def generate_fibonacci(n):
     return fib_sequence
 
 # Print the first 10 Fibonacci numbers
-n = 10
+n = 100
 fibonacci_sequence = generate_fibonacci(n)
 for num in fibonacci_sequence:
     print(num)
